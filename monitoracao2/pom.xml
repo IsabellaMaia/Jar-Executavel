@@ -90,7 +90,7 @@
 
                       <manifest>
 
-                        <mainClass>pacote.subpacteSuaClasseComMetodoMain</mainClass>
+                        <mainClass>executavel.App</mainClass>
 
                       </manifest>
 
